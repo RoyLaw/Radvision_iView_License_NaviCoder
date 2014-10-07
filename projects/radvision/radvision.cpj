@@ -1,0 +1,15 @@
+<project version="030001" type="0" formatVersion="1">
+    <target name="compile_project">
+        <javac outputpath=".\output">
+            <src path=".\src" />
+            <libcontainers />
+        </javac>
+    </target>
+    <target name="proj">
+        <compiler name="Default_JDK" />
+    </target>
+    <target name="dependency" />
+    <target name="runprofiles" />
+    <target name="javadoc" tree="1" usagepage="1" navigationbar="1" index="1" indexletter="1" author="1" version="1" caption="" addparam="" />
+    <target name="remotedebugprofiles" />
+</project>

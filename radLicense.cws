@@ -1,0 +1,11 @@
+<project version="030001" formatVersion="1">
+    <target name="workspace">
+        <property name="name" value="radLicense" />
+        <projs>
+            <proj>.\projects\radvision\radvision.cpj</proj>
+        </projs>
+        <setting>
+            <activeproj>radvision</activeproj>
+        </setting>
+    </target>
+</project>

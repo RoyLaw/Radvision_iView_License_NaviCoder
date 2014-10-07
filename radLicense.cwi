@@ -1,0 +1,18 @@
+<project version="030001" formatVersion="1">
+    <target name="workspacelayout">
+        <openeddocuments>
+            <file>
+                <path>.\projects\radvision\src\LicenseTransform.java</path>
+                <lineno>6</lineno>
+            </file>
+            <file>
+                <path>.\projects\radvision\src\Main.java</path>
+                <lineno>12</lineno>
+            </file>
+        </openeddocuments>
+        <activedocument>.\projects\radvision\src\Main.java</activedocument>
+    </target>
+    <target name="bookmarks" nextnewbookmarkid="11" />
+    <target name="breakpoints" />
+    <target name="watches" />
+</project>
